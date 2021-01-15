@@ -1,0 +1,1908 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="canonical" href="https://www.sbusinesslondon.ac.uk/our-partner.php/chat/logout.png" />
+    <!-- Meta Data -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="sbusinesslondon"/>
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+    <title>Accreditations | MBA Degree | CMI MBA | CMI Leadership</title>
+    <meta name="description" content="We are dedicated to offering qualifications students can trust. All the courses offered at SBL, including the Social Care Courses, Computing Courses and Management and Leadership Courses are from recognised professional bodies and universities and are fully accredited." />
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103412335-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/7a457677917fb48abcb60b114/1f3427920b49a4d679f98f11e.js");</script>
+<link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Cabin:400,400i,500,600,700&display=swap" rel="stylesheet"> 
+    <!-- Stlylesheet -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../css/index-min.css" />
+    <!--<link rel="stylesheet" href="../css/homepage.css" />-->
+    <script src="../js/jquery.min.js"></script>
+
+    <!-- <script src="js/jquery-1.10.2.min.js" defer></script> -->
+
+    <script src="../js/main-min.js" defer></script>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="../css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+    <link href="../css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+    <!--<link id="menuzord-menu-skins" href="../css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet"/>-->
+    <link href="../css/style-main.css" rel="stylesheet" type="text/css">
+    <link href="../css/css-plugin-collections.css" rel="stylesheet"/>
+    <script src="../js/jquery-2.2.4.min.js"></script>
+    <script src="../js/jquery-ui.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/bootstrap-select.js"></script>
+    <script src="../js/jquery-plugin-collection.js"></script>
+    <script src="../js/jquery.dlmenu.js"></script>
+    <script src="../js/custom.js"></script>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap-select.css" rel="stylesheet" type="text/css">
+    <link href="../css/style.css" rel="stylesheet">
+    <link href="../css/sm_icons.css" rel="stylesheet">
+    <link href="../css/style-inner.css" rel="stylesheet">
+    <link href="../css/main.css" rel="stylesheet">
+    <link href="../css/mob_menu.css" rel="stylesheet">
+    <style type="text/css">
+      .main_menu > li > ul.submenu > li > ul.sub_menu {
+    overflow-y: scroll !important;
+    height: 200px;
+}
+@media only screen and (max-width: 767px) {
+#slide-navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 15px;
+    z-index: 99;
+    width: 280px;
+    height: 100%;
+    background-color: #024593;
+    overflow: auto;
+}
+.menu-overlay {
+    display: none;
+    background-color: #000;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    /* IE7 & 8 */
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 49;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+}
+}
+.navbar-fixed {
+  top: 80px;
+  z-index: 100;
+  position: fixed;
+  width: 100%;
+  background-color:#fff;
+}
+
+</style>
+    <script type="text/javascript">
+$(document).ready(function(){
+    $('[data-toggle="slide-collapse"]').on('click', function() {
+  $navMenuCont = $($(this).data('target'));
+  $navMenuCont.animate({
+    'width': 'toggle'
+  }, 350);
+  $(".menu-overlay").fadeIn(500);
+
+});
+$(".menu-overlay").click(function(event) {
+  $(".navbar-toggle").trigger("click");
+  $(".menu-overlay").fadeOut(500);
+});
+});
+
+jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > 50) {
+            jQuery('nav').addClass("sticky")            
+            jQuery('.slider_txtwrap').addClass("padd_140");
+            jQuery('#toTop').show();
+        } else {
+            jQuery('nav').removeClass("sticky");
+            jQuery('.slider_txtwrap').removeClass("padd_140");
+            jQuery('#toTop').hide();
+        }
+    });
+/* Mobile Menu */
+jQuery(function() {
+    jQuery( '#dl-menu' ).dlmenu({
+        animationClasses : { classin : 'dl-animate-in-3', classout : 'dl-animate-out-3' }
+    });
+});
+$(window).scroll(function () {
+  console.log($(window).scrollTop())
+  if ($(window).scrollTop() > 300) {
+    $('.course_to_search_wrapp').addClass('navbar-fixed');
+  }
+  if ($(window).scrollTop() < 301) {
+    $('.course_to_search_wrapp').removeClass('navbar-fixed');
+  }
+});
+    </script>
+    </head>
+    <body class="sbl_course_list">
+<div id="wrapper" class="clearfix">
+<!-- Header Start -->
+<header>
+      <nav>
+    <div class="container">
+          <div id="navbar" class="navbar navbar-default">
+        <div class="navbar-header col-md-2 col-sm-4 col-xs-4"> <a href="/" class="svg firefly-logo global-header__logo">
+          <object data="../images/sbl.svg" type="image/svg+xml">
+          </object>
+          </a> </div>
+        <div class="col-md-9 col-sm-7 col-xs-7 pull-xs-right"> 
+              <!-- Mobile Menu Start -->
+              <div id="dl-menu" class="dl-menuwrapper">
+            <button class="dl-trigger visible-sm visible-xs"><i class="fa fa-bars"></i></button>
+            <ul class="dl-menu">
+                  <li> <a href="../">Home</a> </li>
+                  <li> <a href="#">Courses</a>
+                <ul class="dl-submenu">
+                      <li><a href="../cmi-courses-in-uk.php">All Courses</a></li>
+                      <li><a href="#">Master’s Degree Courses</a>
+                    <ul class="dl-submenu">
+                          <li><a href="../mba-top-up-inclusive-of-level-7-diploma-in-stratergic-management-and-leadership.php">MBA Inclusive of Level-7 Diploma</a></li>
+                          <li><a href="../master-of-business-administration-top-up.php">MBA Top Up</a></li>
+                          <!-- <li><a href="../online-MBA-IB-courses-uk.php">MBA in International Business</a></li> -->
+<li><a href="../ma-education-management-leadership-TOP-UP.php">MA in EDUCATION MANAGEMENT & LEADERSHIP TOP-UP</a></li>
+ <li><a href="../ma-in-human-resources-management.php">MA IN HUMAN RESOURCES MANAGEMENT</a></li>
+ <li><a href="../ma-in-public-administration-(top-up).php">MA in Public Administration (top-up)</a></li>
+<li><a href="../ma-in-tourism-hospitality-management-(top-up).php">MA in Tourism and Hospitality Management (top-up)</a></li>
+<li><a href="../master-of-business-administration-(MBA)-TOP-UP.php">MASTER OF BUSINESS ADMINISTRATION (MBA) TOP-UP</a></li>
+<li><a href="../msc-in-accounting-and-finance-top-up.php">MSc in Accounting and Finance Top-up</a></li>
+<li><a href="../msc-in-health-and-social-care-management-top-up.php">MSc in Health and Social Care Management Top-up</a></li>
+<li><a href="../msc-in-logistics-and-supply-chain-management-top-up.php">MSc in Logistics and Supply Chain Management (top-up) </a></li>
+       
+                        </ul>
+                  </li>
+                      <li><a href="#">Bachelor’s Degree Courses </a>
+                    <ul class="dl-submenu">
+                          <li><a href="../BA-(Hons)-in-business-and-management.php">BA (Hons) Business Management (Final Year)</a></li>
+                          <li><a href="../BA-(Hons)-in-business-and-management.php">BA (Hons) Business Management Including Level 4 &amp; 5 Diploma</a></li>
+                          <!-- <li><a href="../BA-International-Business.php">BA Global Business</a></li> -->
+ <li><a href="../BA-(Hons)-Business-Management-(Top-Up).php">BA (Hons) Business Management (Top-Up)</a></li>
+        <li><a href="../BA-(Hons)-in-Tourism-and-Hospitality-Management (Top-Up).php">BA (Hons) in Tourism and Hospitality Management (Top-Up)</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Doctorate Courses </a>
+                    <ul class="dl-submenu">
+                          <li><a href="../doctorate-in-business-administration.php">Doctor of Business Administration (Top Up)</a></li>
+                          <li><a href="../doctor-of-business-administration.php">Doctor of Business Administration</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Diploma Courses </a>
+                    <ul class="dl-submenu">
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Business-Management">Business Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-business-administration">Business Administration</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-business-enterprise">Business Enterprise</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-management-leadership">Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-accounting-finance">Accounting & Finance</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Project-Management">Project Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-HRM">Human Resource Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Computing-IT">Computing & IT</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Business-IT">Business & IT</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Cyber-Security">Cyber Security</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Sales-Professionalism">Sales Professionalism</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Health-Social-Care">Health and Social Care</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Professional-Consulting">Professional Consulting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-health-coaching">Health Coaching</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-team-leading">Team Leading</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-computerised-accounting">Computerised Accounting</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Certificate Courses </a>
+                    <ul class="dl-submenu">
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Business-Management">Business Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-management-leadership">Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Project-Management">Project Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Sales-Professionalism">Sales Professionalism</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Health-Social-Care">Health and Social Care</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Professional-Consulting">Professional Consulting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-computerised-accounting">Computerised Accounting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-computerised-payroll">Computerised Payroll</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-team-leading">Team Leading</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Award Courses </a>
+                    <ul class="dl-submenu">
+                      <li><a href="../cmi-courses-in-uk.php?search=A-management-leadership">Management and Leadership</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-Professional-Consulting">Professional Consulting</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-computerised-accounting">Computerised Accounting</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-computerised-payroll">Computerised Payroll</a></li>
+                      <li><a href="../cmi-courses-in-uk.php?search=A-team-leading">Team Leading</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Foundation Courses </a>
+                    <ul class="dl-submenu">
+                          <li><a href="../cmi-courses-in-uk.php?search=Foundation-Course">All Foundation Courses</a></li>
+                        </ul>
+                  </li>
+                    </ul>
+              </li>
+                  <li> <a  href="../our-partner.php/">Accreditations</a> </li>
+                  <li><a  href="#">Study Mode</a>
+                <ul class="dl-submenu">
+                      <li><a href="../blended-learning-courses-uk.php/">Blended Learning</a></li>
+                      <li><a href="../distance-learning-courses-uk.php/">Online Learning</a></li>
+                    </ul>
+              </li>
+                  <li><a  href="#">About Us</a>
+                <ul class="dl-submenu">
+                      <li><a href="../about-school-of-business-london.php/">About SBL</a></li>
+                      <li><a href="../why-choose-sbl.php/">Why Choose SBL</a></li>
+                  <li><a href="../faq.php/">FAQ</a></li>
+                      <li><a href="../contact-school-of-business-london.php/">Contact Us</a></li>
+                      <li><a href="../Regional-Access-Points.php/">RAP Partners</a></li>
+                      <li><a href="../blog/">Career Guides</a></li>
+                    </ul>
+              </li>
+                  <li><a class=button-lms href="https://www.sbusinesslondon.ac.uk/application/register/">Apply Now</a> </li>
+                  <li> <a class="btn button-lms dropdown-toggle" href="#" style="background: #0E53A0;"><i class="fa fa-user-circle" aria-hidden=true></i> <span class=caret></span></a>
+                <ul class=dl-submenu>
+                      <li><a href="https://www.sbusinesslondon.ac.uk/application/Auth/login/"><i class="fa fa-sign-out" aria-hidden=true></i> Log in</a></li>
+                  <li><a target=_blank href="https://sbusinesslondon.neolms.eu/"><i class="fa fa-sign-out" aria-hidden=true></i> Neo LMS Log in</a></li>
+                  <li><a target=_blank href="https://www.lms.sbusinesslondon.ac.uk/"><i class="fa fa-sign-out" aria-hidden=true></i> LMS Log in</a></li>
+                  <li><a target=_blank href="https://desk.zoho.eu/portal/schoolofbusinesslondon/signin"><i class="fa fa-sign-out" aria-hidden=true></i> Support Desk Log in</a></li>
+                    </ul>
+              </li>
+                </ul>
+          </div>
+              <!-- Mobile Menu End -->
+              
+              <div class="main_menu_wrap">
+            <ul class="main_menu">
+                  <li><a class="trigger" href="../">Home</a> </li>
+                  <li><a class="trigger" href="#">Courses <i class="fa fa-angle-down"></i></a>
+                <ul class="submenu">
+                      <li><a href="../cmi-courses-in-uk.php">All Courses</a></li>
+                      <li><a href="#">Master’s Degree Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../mba-top-up-inclusive-of-level-7-diploma-in-stratergic-management-and-leadership.php">MBA Inclusive of Level-7 Diploma</a></li>
+                          <li><a href="../master-of-business-administration-top-up.php">MBA Top Up</a></li>
+                          <!-- <li><a href="../online-MBA-IB-courses-uk.php">MBA in International Business</a></li> -->
+<li><a href="../ma-education-management-leadership-TOP-UP.php">MA in EDUCATION MANAGEMENT & LEADERSHIP TOP-UP</a></li>
+ <li><a href="../ma-in-human-resources-management.php">MA IN HUMAN RESOURCES MANAGEMENT</a></li>
+ <li><a href="../ma-in-public-administration-(top-up).php">MA in Public Administration (top-up)</a></li>
+<li><a href="../ma-in-tourism-hospitality-management-(top-up).php">MA in Tourism and Hospitality Management (top-up)</a></li>
+<li><a href="../master-of-business-administration-(MBA)-TOP-UP.php">MASTER OF BUSINESS ADMINISTRATION (MBA) TOP-UP</a></li>
+<li><a href="../msc-in-accounting-and-finance-top-up.php">MSc in Accounting and Finance Top-up</a></li>
+<li><a href="../msc-in-health-and-social-care-management-top-up.php">MSc in Health and Social Care Management Top-up</a></li>
+<li><a href="../msc-in-logistics-and-supply-chain-management-top-up.php">MSc in Logistics and Supply Chain Management (top-up) </a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Bachelor’s Degree Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../BA-(Hons)-in-business-and-management.php">BA (Hons) Business Management(Final Year)</a></li>
+                          <li><a href="../BA-(Hons)-in-business-and-management.php">BA (Hons) Business Management Including Level 4 &amp; 5 Diploma</a></li>
+                          <!-- <li><a href="../BA-International-Business.php">BA Global Business</a></li> -->
+ <li><a href="../BA-(Hons)-Business-Management-(Top-Up).php">BA (Hons) Business Management (Top-Up)</a></li>
+        <li><a href="../BA-(Hons)-in-Tourism-and-Hospitality-Management (Top-Up).php">BA (Hons) in Tourism and Hospitality Management (Top-Up)</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Doctorate Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                        <li><a href="../doctorate-in-business-administration.php">Doctor of Business Administration (Top Up)</a></li>
+                        <li><a href="../doctor-of-business-administration.php">Doctor of Business Administration</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Diploma Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Business-Management">Business Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-business-administration">Business Administration</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-business-enterprise">Business Enterprise</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-management-leadership">Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-accounting-finance">Accounting & Finance</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Project-Management">Project Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-HRM">Human Resource Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Computing-IT">Computing & IT</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Business-IT">Business & IT</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Cyber-Security">Cyber Security</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Sales-Professionalism">Sales Professionalism</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Health-Social-Care">Health and Social Care</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-Professional-Consulting">Professional Consulting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-health-coaching">Health Coaching</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-team-leading">Team Leading</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=D-computerised-accounting">Computerised Accounting</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Certificate Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Business-Management">Business Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-management-leadership">Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Project-Management">Project Management</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Sales-Professionalism">Sales Professionalism</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Health-Social-Care">Health and Social Care</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-Professional-Consulting">Professional Consulting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-computerised-accounting">Computerised Accounting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-computerised-payroll">Computerised Payroll</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=C-team-leading">Team Leading</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Award Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../cmi-courses-in-uk.php?search=A-management-leadership">Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-strategic-management-leadership">Strategic Management and Leadership</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-Coaching-Mentoring">Coaching and Mentoring</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-Professional-Consulting">Professional Consulting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-computerised-accounting">Computerised Accounting</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-computerised-payroll">Computerised Payroll</a></li>
+                          <li><a href="../cmi-courses-in-uk.php?search=A-team-leading">Team Leading</a></li>
+                        </ul>
+                  </li>
+                      <li><a href="#">Foundation Courses <i class="fa fa-angle-right"></i></a>
+                    <ul class="sub_menu">
+                          <li><a href="../cmi-courses-in-uk.php?search=Foundation-Course">All Foundation Courses</a></li>
+                        </ul>
+                  </li>
+                    </ul>
+              </li>
+                  <li><a  href="../our-partner.php/">Accreditations</a> </li>
+                  <li><a class="trigger" href="#">Study Mode<i class="fa fa-angle-down"></i></a>
+                <ul class="submenu">
+                      <li><a href="../blended-learning-courses-uk.php/">Blended Learning</a></li>
+                      <li><a href="../distance-learning-courses-uk.php/">Online Learning</a></li>
+                    </ul>
+              <li><a class="trigger" href="#">About Us <i class="fa fa-angle-down"></i></a>
+                <ul class="submenu">
+                  <li><a href="../about-school-of-business-london.php/">About SBL</a></li>
+                  <li><a href="../why-choose-sbl.php/">Why Choose SBL</a></li>
+                  <li><a href="../faq.php/">FAQ</a></li>
+                  <li><a href="../contact-school-of-business-london.php/">Contact Us</a></li>
+                  <li><a href="../Regional-Access-Points.php/">RAP Partners</a></li>
+                  <li><a href="../blog/">Career Guides</a></li>
+                </ul>
+              <li><a class=button-lms href="https://www.sbusinesslondon.ac.uk/application/register/">Apply Now</a> </li>
+                  <li>
+                <button class="btn button-lms dropdown-toggle" type=button ><i class="fa fa-user-circle" aria-hidden=true></i> <span class=caret></span></button>
+                <ul class=submenu>
+                  <li><a href="https://www.sbusinesslondon.ac.uk/application/Auth/login/"><i class="fa fa-sign-out" aria-hidden=true></i> Log in</a></li>
+                  <li><a target=_blank href="https://sbusinesslondon.neolms.eu/"><i class="fa fa-sign-out" aria-hidden=true></i> Neo LMS Log in</a></li>
+                  <li><a target=_blank href="https://www.lms.sbusinesslondon.ac.uk/"><i class="fa fa-sign-out" aria-hidden=true></i> LMS Log in</a></li>
+                  <li><a target=_blank href="https://desk.zoho.eu/portal/schoolofbusinesslondon/signin"><i class="fa fa-sign-out" aria-hidden=true></i> Support Desk Log in</a></li>
+                    </ul>
+              </li>
+                </ul>
+          </div>
+            </div>
+      </div>
+        </div>
+  </nav>
+    </header>
+<!-- Header End -->
+<div class="main-content">
+<section class="content-section hidden-xs vissible-lg vissible-sm vissible-md" >
+      <div class="container control-nav">
+    <h2>.</h2>
+    <!--<div class="navbar navbar-inverse">
+<ul class="nav navbar-nav ">
+<li class="active_a"> <a href="../cmi-courses-in-uk.php/">Management & <br/>Leadership</a></li>    
+<li class="active_b"> <a href="../business-management-courses-in-uk.php/">Business <br/>Management</a></li>   
+<li class="active_c"> <a href="../accounting-and-finance-courses-uk.php/">Accounting & <br/>Finance</a></li>   
+<li class="active_d"> <a href="../masters-in-human-resource-management-courses.php/">Human Resource <br/>Management</a></li>   
+<li class="active_e"> <a href="../cyber-security-courses-uk.php/">Cyber <br/>Security</a></li>   
+<li class="active_f"> <a href="../diploma-in-health-and-social-care-courses-uk.php/">Health & Social <br/>Care</a></li>   
+<li class="active_g"> <a href="../diploma-in-information-technology.php/">Computing & <br/>IT</a></li>  
+<li class="active_h"> <a href="../project-management.php/">Project <br/>Management</a></li>
+<li class="active_i"> <a href="../travel-and-tourism-courses-in-uk.php/">Travel &  <br/>Tourism</a></li>
+<li class="active_j"> <a href="../diploma-in-law-uk.php/">Law<br/> Courses</a></li>     
+              </ul>
+</div>--> 
+  </div>
+    </section>
+
+
+<div class="bg-lighter">
+	<section class="inner-header layer-overlay  overlay-dark-5" data-bg-img="images/management-courses.jpg" style="background-image: url('../images/management-courses.jpg'); background-position: 50% -264px;" alt="cmi courses in uk">
+		<div class="container pt-70 pb-20">
+			<!-- Section Content -->
+			<div class="section-content">
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="title text-white text-center">Accreditations</h2>
+						<ol class="breadcrumb text-left text-black mt-10">
+							<li><a>Home</a></li>
+							<li class="active text-gray-silver">Accreditations</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div id="courses_wrapper" class="courses_wrapper">
+            
+            <!-- Courses Content Start -->
+            <div class="container">
+            	<!-- Course Wrapper Start -->
+                <div class="course_wrapp col-lg-12 col-md-8 col-sm-12 col-xs-12">
+                    <!-- Courses Top Search Start -->
+                    
+                    
+                    <!-- Courses Wrapper Start -->
+                    <div class="wrapper_course">
+                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                      <div class="course_block">
+                     <h2>Accreditation &amp; Partners</h2>
+                    <p>School of Business London is dedicated to offering students worldwide with the
+qualifications they can fully trust. SBL is accredited and recognised by several UK
+Government regulated awarding bodies and deliver over hundred and twenty qualifications
+in various categories such as Business Management, Management and Leadership,
+Hospitality and Tourism, Accounting and Finance, Health and Social Care, Education and
+Training, Project Management, Marketing etc. Besides, SBL promote some degree
+programs delivered by a few reputed UK Universities. The courses offered at SBL are from
+recognised professional bodies and universities and are fully accredited. It emphasises our
+commitment to the sustained improvement of the quality of our offerings, delivering
+opportunity and peace of mind to you.</p>
+</div>
+                     </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="CMI" src="../img/CMI.jpg">
+                                    
+                                    
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>CMI – Chartered Management Institute</h2>
+											<span class="more">
+											CMI is royal charter and a UK Government (Ofqual.gov.uk) regulated awarding body.
+Chartered Management Institute established over 60 years ago as the British Institute of
+Management back then; it had developed the UK’s very first diploma in management
+studies. In the years that followed, CMI has consistently been at the forefront of all aspects
+of management and leadership. Today CMI is the only chartered professional awarding body
+committed to offering the highest standards in management and leadership excellence.
+Presently over 100,000 managers use its unique services daily. CMI qualifications aim for
+managers and leaders at any level, and it remains the only Awarding Body which can award
+Chartered Manager status - the ultimate management accolade. Employers highly value the
+qualifications awarded by CMI, and hence it boosts your career prospects.
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:100px" src="../img/cmi.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all CMI courses</a><a class="btn btn-danger"  href="https://www.managers.org.uk/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="Science" src="../img/Qualifi.jpg">
+                                   
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>QUALIFI</h2>
+											<span class="more">
+											Qualifi is a UK Government (Ofqual.gov.uk) regulated awarding organisation and has
+developed a reputation for supporting relevant skills in a range of job roles and industries
+including Leadership, Enterprise and Management, Hospitality &amp; Catering, Health and Social
+Care, Business Process Outsourcing and Public Services.Qualifi is also a signatory to BIS international commitments of quality.
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="https://res.cloudinary.com/smartechpro/image/upload/c_fill,f_png,h_150/v1499192931/Unknown_sgu1e9.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all QUALIFI courses</a><a class="btn btn-danger"  href="https://qualifi.net/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="BCS" src="../img/BCS.jpg">
+                                    
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>British Computer Society (The Chartered Institute for IT)</h2>
+											<span class="more">
+											British Computer Society is a royal charter and a UK Government (Ofqual.gov.uk) regulated
+awarding organisation and been over 60 years in the forefront of computing evolution.
+Currently there are 68000 BCS members and Chartered IT Professionals across the world
+and a broader community of business leaders, educators, practitioners and policy-makers all
+committed to our mission. BCS ensure the digital journey is positive and safe for everyone
+by enhancing the standards of conduct and competence throughout the IT industry.
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="../img/BCS.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all BCS courses</a><a class="btn btn-danger"  href="https://www.bcs.org/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="NCC" src="../img/NCC.jpg">
+                                    
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>NCC Education </h2>
+											<span class="more">
+											NCC Education is a UK Government (Ofqual.gov.uk) regulated awarding organisation and
+worldwide provider of British Education. NCC Education was originally part of National
+Computing Centre established as a computing initiative by the British Government in 1966
+and became independent from the British government and established as an awarding
+organisation of British qualifications in 1967. NCC Education higher education portfolio
+includes IT, Business, English Language and Foundation Levels Qualifications. NCC partner
+with many universities to provide students with an affordable pathway to obtain a UK
+university degree or masters qualification in the areas of Business and Computing.
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:80px" src="../img/NCCEdu_Logos-03.jpg" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all NCC courses</a><a class="btn btn-danger"  href="https://www.bcs.org/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+					<!--<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="APS" src="../img/aps.jpg">
+                                    
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>Association of Professional Sales  </h2>
+											<span class="more">
+											Association of Professional Sales is a professional body and an awarding organisation focus on supporting, promoting and representing the sales profession and committed to improving the skills, knowledge and behaviour needed to be successful in sales. The APS is run by the profession, for the profession. To this end, APS inspire all members to be personally involved in areas in which they have particular experience or a special interest. Use of designatory letters and APS logo enhances professionalism and stand out from the crowd.  APS’s major corporate members include Vodafone, Royal Mail, SAS, Wipro, Oracle, Cisco, Worldpay etc. 
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="../img/APS.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all APS courses</a><a class="btn btn-danger"  href="https://www.associationofprofessionalsales.com/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>-->
+
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="IBT" src="../img/IBT.jpg">
+                                    
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>Institute of Business and Technology  </h2>
+											<span class="more">
+											School of Business London is the Accredited Centre of Institute of Business and Technology (IBT). IBT is an awarding organisation, which develops various high-quality vocational qualifications. IBT Programmes are guaranteed to conform to a high standard since they recognise, monitor and audit our accredited centre to ensure that they are functioning legitimately and reliably. Moreover, IBT takes necessary measures to assure that centres are provided comprehensive supports to facilitate them to provide the best service possible to the learners. 
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="../img/ibt.svg" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all IBT courses</a><a class="btn btn-danger"  href="https://www.associationofprofessionalsales.com/" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+-
+
+
+
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="Sage" src="../img/SAGE.jpg">
+                                    
+                                   
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>Sage Qualifications</h2>
+											<span class="more">
+											Sage Qualifications provide a range of accredited qualifications in partnership with various 
+awarding and professional bodies including CIMA, ICAEW, ICB, OCR and Skillsfirst. The qualifications developed by Sage Qualifications offer great development opportunities. With a course from Sage Qualifications Besides the qualifications you can develop your skills and gain qualifications in digital accounting and payroll. 
+
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="../img/sage-logo.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all ARU courses</a><a class="btn btn-danger"  href="https://www.sagequalifications.com/
+
+" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+				
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="Anglia-Ruskin-University" src="../img/Anglia-Ruskin-University.jpg">
+                                                                     
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>Anglia Ruskin University </h2>
+											<span class="more">
+											Anglia Ruskin University began in 1858 as the Cambridge School of Art founded by William Beaumont. It was then merged with the Cambridge shire College of Arts and Technology and the Essex Institute of Higher Education and was renamed Anglia Polytechnic. It was then given university status in 1992 and renamed Anglia Ruskin University in 2005. The university has campuses in UK (Cambridge, Chelmsford, London and Peterborough), as well as they are partnered with institutions around the world including Berlin, Budapest, Trinidad, Singapore and Kuala Lumpur. SBL work in partnership with Chestnut Education Group to promote the programs awarded by the Anglia Ruskin University.  
+
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><img style="width:200px" src="../img/ARU.png" alt="School of Business London"/> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all ARU courses</a><a class="btn btn-danger"  href="https://aru.ac.uk/
+
+" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+
+
+
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="course_block">
+                                <div class="img_wrap">
+                                    <img alt="Science" src="../img/UCLAN imavge.jpg">
+                                                                       
+                                </div>
+                                <div class="info_wrap">
+                                    <div class="science">
+                                        <div class="course_info">
+											<h2>University of Central Lancashire (UCLAN) </h2>
+											<span class="more">
+											Founded in 1828, the University of Central Lancashire is a public university based in the city of Preston, Lancashire, England. Today UCLAN is one of the largest in the United Kingdom with a student and staff community nearly 38,000. At present the University has academic partners in all regions of the globe, and it is on a world stage that the first-class quality of its education was first recognised. In 2010 UCLAN has become the first UK modern Higher Education institution to appear in the QS World University Rankings. In 2018, the Centre for World University Rankings estimated Central Lancashire to be in the top 3.7 percent of all global universities, highlighting the growth the university has made in offering students with real-world learning experiences and reflecting the university's extensive pool of academic talent. 
+
+											</span>
+                                         
+										</div>
+										
+                                    
+								</div>
+								
+							</div>
+							<div class="col-md-12"><object data="../images/uclan.svg" type="image/svg+xml" class="mob" width="200">
+              </object> <div class="btn-group pull-right" role="group" ><a class="btn btn-primary" href="../cmi-courses-in-uk.php" role="button">View all UCLAN courses</a><a class="btn btn-danger"  href="https://aru.ac.uk/
+
+" role="button" target="_blank">Visit partner site</a></div></div>
+                        </div>
+						
+
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <!-- Courses Wrapper End -->
+                   
+                   
+                    
+                </div>
+                <!-- Course Wrapper End -->
+                
+                                       
+            </div>
+            <!-- Courses Content End -->
+        </div>
+</div>
+
+<script>
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 300;  // How many characters are shown by default
+    var ellipsestext = "...";
+    var moretext = "Show more >";
+    var lesstext = "Show less";
+    
+
+    $('.more').each(function() {
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span class='inherit'>' + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+</script>
+
+
+	</div>
+<footer class=footer>
+  <div class=container>
+    <!--<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <h1>GET IN TOUCH<br> WITH US</h1>
+    </div>-->
+    <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4"> 
+    <h3>Contact Us <i class="fa fa-chevron-right"></i></h3>
+    <ul class="connet-us">
+    <li><i class="fa fa-comments"></i>
+      Live Chat
+      </li>
+      <li><i class="fa fa-envelope" aria-hidden=true></i>
+      
+      <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c2d2821253f3f2523220c3f2e393f2522293f3f202322282322622d2f623927">[email&#160;protected]</a>
+      
+      </li>
+      <li><i class="fa fa-phone-square" aria-hidden=true></i>
+      
+      <strong>+44 20 3637 8765</strong>
+      </li>
+      
+      <li><i class="fa fa-whatsapp" aria-hidden=true></i>
+      <strong> +44 78 4848 5582</strong> 
+      </li>
+      <li> <i class="fa fa-map-marker"></i> 44 Broadway <br>
+        <p style="padding-left:29px"> Stratford <br>
+         E15 1XH <br>
+         London , United Kingdom </p>
+    </li>
+      </ul>
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+      <h3>About SBL <i class="fa fa-chevron-right"></i></h3>
+      <ul class=navbarnav>
+        <li><a href="../about-school-of-business-london.php/" class=footer-nav__link>About Us</a></li>
+        <li><a href="../our-partner.php/" class=footer-nav__link>Accreditations</a></li>
+        <li><a href="../blended-learning-courses-uk.php/" class=footer-nav__link>Blended Learning</a></li>
+        <li class=main-nav__item--l2><a href="../distance-learning-courses-uk.php/" class=footer-nav__link>Distance Learning</a></li>
+        <li><a class=footer-nav__link href="https://sbusinesslondon.ac.uk/blog/">Career Guides</a></li>
+        <li><a class=footer-nav__link href="https://sbusinesslondon.ac.uk/articles.php/">Articles</a></li>
+        <li><a class=footer-nav__link href="https://sbusinesslondon.ac.uk/contact-school-of-business-london.php/">Contact Us</a></li>
+        <li><a class=footer-nav__link href="https://sbusinesslondon.ac.uk/online-library.php/">Online Library</a></li>
+      </ul>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+      <h3>Quick Links <i class="fa fa-chevron-right"></i></h3>
+      <ul class=navbarnav>
+        <li><a class=footer-nav__link href="../individual-learning-plan.php/">Individual Learning Plan</a></li>
+        <li><a class=footer-nav__link href="../terms-and-conditions.php/">Terms and Conditions</a></li>
+        <li><a class=footer-nav__link href="../privacy-policy.php/">Privacy Policy</a></li>
+        <li><a class=footer-nav__link href="../cookies-policy.php/">Cookies Policy </a></li>
+        <li><a class=footer-nav__link href="../complaint-policy.php/">Complaint Policy </a></li>
+    
+        <li><a class=footer-nav__link href="../faq.php/">FAQ </a></li>
+        <li><a class="btn btn-danger custom-b" href="https://sbusinesslondon.neolms.eu/"><i class="fa fa-user"></i>LMS Login</a></li>
+        <li><a class="btn btn-danger custom-b"  href="../pay-here.php/"><i class="fa fa-credit-card" aria-hidden="true"></i>Payment</a></li>
+      </ul>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <h3 class=text-center>Follow Us <i class="fa fa-chevron-right"></i></h3>
+      <!--<p class=text-center>Follow us on your favourite channel to stay in touch with latest happenings</p>-->
+      <div class=socialmedia>
+        <ul>
+          <li><a href="https://www.facebook.com/SBusinessL/" target=_blank><i class="fa fa-facebook" aria-hidden=true></i></a></li>
+          <li><a href="https://twitter.com/SBLondonUK" target=_blank><i class="fa fa-twitter" aria-hidden=true></i></a></li>
+          <li><a href="https://www.linkedin.com/company/school-of-business-london/" target=_blank><i class="fa fa-linkedin" aria-hidden=true></i></a></li>
+          <li><a href="https://in.pinterest.com/school_of_business_london/" target=_blank><i class="fa fa-pinterest" aria-hidden=true></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCN3xKEM4C0i_h2kAzfWKFLw" target=_blank><i class="fa fa-youtube" aria-hidden=true></i></a></li>
+        </ul>
+      </div>
+      <div class=payment>
+        <h3 class=text-center>Payment Methods</h3>
+        <img src="../img/payment.png" alt="payment image" title="Payment Methods"/> </div>
+    </div>
+    <!--<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <h3>Contact Us</h3>
+      <div class="pageloader hidden-xs" style="display: none;">
+        <div class=thecube>
+          <div class="cube c1"></div>
+          <div class="cube c2"></div>
+          <div class="cube c4"></div>
+          <div class="cube c3"></div>
+        </div>
+      </div>
+      <div class=address> <i class="fa fa-map-marker"></i> 44 Broadway <br>
+        <i class="fa fa-map-marker"></i> Stratford <br>
+        <i class="fa fa-map-marker"></i> E15 1XH <br>
+        <i class="fa fa-map-marker"></i> London , United Kingdom </div>
+    </div>-->
+  </div>
+</footer>
+<footer class="footer-section">
+  <div class="container">
+    <div class="global-footer__bottom">
+      <p class="global-footer__copyright">School of Business London Ltd, Registered in England & Wales (Company Reg. No: 08967560) | © Copyright 2019. All Rights Reserved<br/>
+        <!--Powered by <a target="_blank" href="https://smartechpro.co.uk/" style="color:white;">SMARTECHPRO</a>--></p>
+    </div>
+  </div>
+</footer>
+
+<div class="popup-form">
+
+	<!-- View book request -->
+	<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+	  <div class="modal-dialog modal-sm" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title" id="myModalLabel"> Download Viewbook 2019 </h4>
+	      </div>
+	      <form id="brochure_request">
+	        <div class="form-group" style="padding:15px;" id="brochure_request_form">
+	          <p>Kindly provide us your contact details and we shall provide you the program view book at the earliest.</p>
+	          <input type="text" name="view_book_name" id="view_book_name" class="form-control form-group" placeholder="Your Name">
+	          <input type="text" name="view_book_phone" id="view_book_phone" class="form-control form-group" placeholder="Phone Number">
+	          <input type="email" name="view_book_email" id="view_book_email" class="form-control form-group" placeholder="Email" required>
+	          <input type="hidden" name="view_book_brochure" id="view_book_brochure" value="">
+	          <input type="hidden" name="view_book_course_name" id="view_book_course_name" value="">
+              <p><div class="requestClass g-recaptcha" data-sitekey="6LcFlqMZAAAAALAVFsSI-iO9yaTtaS_6x-6XdDpB" style="transform:scale(0.75);-webkit-transform:scale(0.75);transform-origin:0 0;-webkit-transform-origin:0 0;"></div> </p>
+              <div class="error" id="brochure_captcha_error"></div>
+	          <div style="padding:10px 0">
+	            <button type="button" class="btn btn-default" name="get_view_book" id="get_view_book" value="submit"> Submit </button>
+	          </div>
+	        </div>
+            <div class="icon icon--order-success svg text-center" id="brochure_request_success" style="padding: 150px 0px; display: none;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="72px" height="72px">
+                  <g fill="none" stroke="#E31E26" stroke-width="2">
+                    <circle cx="36" cy="36" r="35" style="stroke-dasharray:240px, 240px; stroke-dashoffset: 480px;"></circle>
+                    <path d="M17.417,37.778l9.93,9.909l25.444-25.393" style="stroke-dasharray:50px, 50px; stroke-dashoffset: 0px;"></path>
+                  </g>
+                </svg>
+                <h4 style="color: #159e25;padding:25px" align="center">We will get back to you soon.</h4>
+            </div>
+	      </form>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- Inquire form  -->
+	<div class="modal fade inquire" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+	  <div class="modal-dialog modal-sm" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title" id="myModalLabel"> REQUEST INFO </h4>
+	      </div>
+	      <div class="form-group course_subscribe" style="padding:15px;" id="request_info_form">
+	        <form id="request_info">
+	          <input class="form-control" placeholder="Your Name..." name="info_name" id="info_name" type="text">
+	          <input class="form-control" placeholder="Email Addrress..." name="info_email" id="info_email" type="email" required>
+	          <input type="text" name="info_phone" id="info_phone" class="form-control" placeholder="Contact Number" minlength="8" maxlength="12">
+	          <textarea class="form-control" rows="7" placeholder="Message..." name="info_messages" id="info_messages"></textarea>
+              <input type="hidden" name="rq_info_course" id="rq_info_course" value="">
+
+              <p><div class="g-recaptcha" data-sitekey="6LcFlqMZAAAAALAVFsSI-iO9yaTtaS_6x-6XdDpB" style="transform:scale(0.75);-webkit-transform:scale(0.75);transform-origin:0 0;-webkit-transform-origin:0 0;"></div> </p>
+              <div class="error" id="info_captcha_error"></div>
+
+
+	          <button type="button" name="send_request_info" id="send_request_info" value="Send Message" class="btn btn_subscribe" style="margin-top:15px">Send Message <i class="fa fa-share"></i></button>
+	        </form>
+	      </div>
+          <div class="icon icon--order-success svg text-center" id="request_info_success" style="padding: 150px 0px; display: none;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="72px" height="72px">
+                  <g fill="none" stroke="#E31E26" stroke-width="2">
+                    <circle cx="36" cy="36" r="35" style="stroke-dasharray:240px, 240px; stroke-dashoffset: 480px;"></circle>
+                    <path d="M17.417,37.778l9.93,9.909l25.444-25.393" style="stroke-dasharray:50px, 50px; stroke-dashoffset: 0px;"></path>
+                  </g>
+                </svg>
+                <h4 style="color: #159e25;padding:25px" align="center">We will get back to you soon.</h4>
+            </div>
+	    </div>
+	  </div>
+	</div>
+
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  $(document).ready(function(){
+    $("#get_view_book").click(function(){
+      $("#brochure_request").validate();
+      
+      if ($('#brochure_request').valid())
+      {
+        $("#get_view_book").prop('disabled', true);
+        if($('textarea[id="g-recaptcha-response"]').val()=="")
+        {
+            $("#info_captcha_error").html("Captcha Required");
+            $("#get_view_book").prop('disabled', false);
+        }
+        else
+        {
+            $.ajax({
+                type:"POST",
+                url: 'brochure_request.php',
+                dataType: 'json',
+                data: {
+                       "g-recaptcha-response":$('textarea[id="g-recaptcha-response"]').val(),
+                       "view_book_name":$("#view_book_name").val(),
+                       "view_book_email":$("#view_book_email").val(),
+                       "view_book_phone":$("#view_book_phone").val(),
+                       "view_book_course_name":$("#view_book_course_name").val(),
+                       },
+
+                success: function( response ){
+
+                    $("#get_view_book").prop('disabled', false);
+                    $("#brochure_request_form").hide();
+                    $("#brochure_request_success").fadeIn();                    
+                    //$(".chat_container").delay(2000).slideToggle("hide");
+
+                },
+                error: function( error ){
+
+                    $("#get_view_book").prop('disabled', false);
+                    $("#brochure_request_form").hide();
+                    $("#brochure_request_success").fadeIn();                    
+                    //$(".chat_container").delay(2000).slideToggle("hide");
+                }
+            });
+        }
+      }
+    });
+  });
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#send_request_info").click(function(){
+      
+      $("#request_info").validate();
+      
+      if ($('#request_info').valid())
+      {
+
+        $("#send_request_info").prop('disabled', true);
+        if($('textarea[id="g-recaptcha-response-1"]').val()=="")
+        {
+            $("#info_captcha_error").html("Captcha Required");
+            $("#send_request_info").prop('disabled', false);
+        }
+        else
+        {
+
+            $.ajax({
+                type:"POST",
+                url: 'request_info.php',
+                dataType: 'json',
+                data: {
+                       "g-recaptcha-response":$('textarea[id="g-recaptcha-response-1"]').val(),
+                       "info_name":$("#info_name").val(),
+                       "info_email":$("#info_email").val(),
+                       "info_phone":$("#info_phone").val(),
+                       "info_messages":$("#info_messages").val(),
+                       "course":$("#rq_info_course").val(),
+                       },
+
+                success: function( response ){
+
+                    $("#send_request_info").prop('disabled', false);
+                    $("#request_info_form").hide();
+                    $("#request_info_success").fadeIn();                    
+                    //$(".chat_container").delay(2000).slideToggle("hide");
+
+                },
+                error: function( error ){
+
+                    $("#send_request_info").prop('disabled', false);
+                    $("#request_info_form").hide();
+                    $("#request_info_success").fadeIn();                    
+                    //$(".chat_container").delay(2000).slideToggle("hide");
+                }
+            });
+        }
+      }
+    });
+  });
+</script>
+
+<style>
+        .l_c_h {
+            width: 300px;
+            position: fixed;
+            bottom: 0;
+            left: 0px;
+            background: #fff;
+            border-radius: 3px;
+            z-index: 5000;
+            display: block;
+        }
+        
+        .l_c_h .c_h {
+            cursor: pointer;
+            border-radius: 0px;
+            /*background:#c61432;*/
+            background: #E31E26;
+            line-height: 34px;
+        }
+        
+        .l_c_h .left_c {
+            color: #ebebeb;
+            width: 100%;
+            font-size: 16px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .l_c_h .right_c {
+            text-align: center;
+            /*background:#DE4A4A;*/
+            background: #0E53A0;
+            line-height: 36px;
+        }
+        
+        .l_c_h .right_c a {
+            color: #ebebeb;
+            border-radius: 3px;
+            box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+            cursor: pointer !important;
+            font-size: 16px;
+            line-height: normal !important;
+            margin-top: 0 !important;
+            padding: 1px 0px !important;
+            text-align: center !important;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .clear {
+            clear: both;
+        }
+        
+        .chat_container {
+            /*    display:none;*/
+            padding: 5px 26px;
+            /*background: #B7040C;*/
+            background: #efefef;
+            color: #fff;
+        }
+        
+        .chat_container .no_provider {
+            text-align: left;
+            color: #fff;
+            font-size: 12px;
+            width: 300px;
+            padding: 5px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 5px;
+        }
+        
+        .chat_container .footer_c {
+            text-align: left;
+            color: #fff;
+            font-size: 12px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .chat_container .footer_c a {
+            text-decoration: underline;
+            color: #cccaca;
+            font-size: 11px;
+        }
+        
+        .chat_container .chat_entry {
+            margin: 10px;
+            margin-top: 0px;
+        }
+        
+        .chat_container .chat_entry p {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .chat_container .chat_entry h4 {
+            text-align: left;
+            color: #1A1A1A;
+            font-weight: 400;
+            font-size: 16px;
+            margin-top: 0px;
+        }
+        
+        .chat_container .chat_entry input[type="text"] {
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+            border-radius: 2px;
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+            color: #999;
+            font-size: 13px;
+            padding: 8px 8px;
+            margin-bottom: 5px;
+            transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+            width: 100%;
+            /*  height:30px; */
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .chat_container .chat_entry input[type="text"]:focus {
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            outline: 0 none;
+            border-color: #66afe9;
+        }
+        
+        .chat_container .chat_entry input[type="button"] {
+            padding: 5px 12px;
+            margin-bottom: 0;
+            font-size: 12px;
+            font-weight: normal;
+            text-align: center;
+            vertical-align: middle;
+            -ms-touch-action: manipulation;
+            touch-action: manipulation;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 0px;
+            color: #fff;
+            /*background-color: #DD4A4A;*/
+            background-color: #0E53A0 !important;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .chat_container .chat_entry input[type="submit"]:hover {
+            background-color: #C64545;
+        }
+        
+        .form-error {
+            display: none;
+        }
+        
+        .chat_message {
+            height: 250px;
+            overflow-y: scroll;
+            padding: 10px;
+            border-bottom: 1px solid #222222;
+            padding-top: 10px;
+        }
+        
+        .chat_message .message_contain {
+            margin: 5px;
+            background: #FCF8E2;
+            padding: 5px;
+        }
+        
+        .chat_message .user_message {
+            background: #F5F5F5;
+        }
+        
+        .chat_message .message_contain .header_image {
+            float: left;
+            width: 50px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .chat_message .message_contain .chat_mess {
+            font-size: 13px;
+            color: #444444;
+            margin-top: 0px;
+        }
+        
+        .chat_message .message_contain .chat_date {
+            color: #777;
+            font-size: 11px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        
+        .chat_text_area {
+            margin: 5px;
+        }
+        
+        .chat_text_area .messag_send {
+            width: 100%;
+            resize: none;
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+            border-radius: 2px;
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+            color: #555;
+            padding: 5px;
+            font-size: 13px;
+            height: 35px;
+        }
+        
+        .chat_text_area .messag_send:focus {
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(102, 175, 233, 0.6);
+            outline: 0 none;
+            border-color: #66afe9;
+        }
+        
+        .left {
+            float: left;
+        }
+        
+        .right {
+            float: right;
+        }
+        
+        .left_icons {
+            width: 35px;
+            height: auto;
+            text-align: center;
+            color: #999;
+            /*background:#DE4A4A;*/
+            background: #ff8f32;
+            font-size: 15px;
+            float: right;
+        }
+        
+        .left_icons a {
+            color: #fff;
+            font-weight: normal;
+        }
+        
+        .center_icons {
+            text-align: center;
+            padding: 2px 0px 0px 5px;
+        }
+        
+        .logout img {
+            margin-top: 8px;
+        }
+
+        .bootstrap-datetimepicker-widget
+        {
+          color: black !important;
+        }
+
+        form .error { 
+          font-size: 11px; 
+          color: #ff5252 !important;
+        }
+        
+        /* animations */
+        
+        @-webkit-keyframes checkmark {
+            0% {
+                stroke-dashoffset: 50px
+            }
+            100% {
+                stroke-dashoffset: 0
+            }
+        }
+        
+        @-ms-keyframes checkmark {
+            0% {
+                stroke-dashoffset: 50px
+            }
+            100% {
+                stroke-dashoffset: 0
+            }
+        }
+        
+        @keyframes checkmark {
+            0% {
+                stroke-dashoffset: 50px
+            }
+            100% {
+                stroke-dashoffset: 0
+            }
+        }
+        
+        @-webkit-keyframes checkmark-circle {
+            0% {
+                stroke-dashoffset: 240px
+            }
+            100% {
+                stroke-dashoffset: 480px
+            }
+        }
+        
+        @-ms-keyframes checkmark-circle {
+            0% {
+                stroke-dashoffset: 240px
+            }
+            100% {
+                stroke-dashoffset: 480px
+            }
+        }
+        
+        @keyframes checkmark-circle {
+            0% {
+                stroke-dashoffset: 240px
+            }
+            100% {
+                stroke-dashoffset: 480px
+            }
+        }
+        /* other styles */
+        /* .svg svg {
+    display: none
+}
+ */
+        
+        .inlinesvg .svg svg {
+            display: inline
+        }
+        /* .svg img {
+    display: none
+} */
+        
+        .icon--order-success svg path {
+            -webkit-animation: checkmark 0.25s ease-in-out 0.7s backwards;
+            animation: checkmark 0.25s ease-in-out 0.7s backwards -webkit-animation-delay: 3s;
+            /* Safari 4.0 - 8.0 */
+            animation-delay: 3s;
+        }
+        
+        .icon--order-success svg circle {
+            -webkit-animation: checkmark-circle 0.6s ease-in-out backwards;
+            animation: checkmark-circle 0.6s ease-in-out backwards -webkit-animation-delay: 2s;
+            /* Safari 4.0 - 8.0 */
+            animation-delay: 2s;
+        }
+        
+        .icon h1 {
+            font-size: 5rem;
+            font-weight: 700;
+            text-transform: uppercase;
+        }
+        
+        @media only screen and (max-width: 768px) {
+            .left_icons {
+                width: 40px;
+height: auto;
+text-align: center;
+color: #999;
+background: #DE4A4A;
+background: #ff8f32;
+font-size: 15px;
+float: left;
+padding-top: 5px;
+margin-left: 10px;
+margin-bottom: 10px;
+            }
+            .l_c_h .c_h {
+                cursor: pointer;
+                border-radius: 0px;
+                background: none;
+                line-height: 34px;
+            }
+        }
+        .l_c_h{
+        background: none;
+        }
+        .l_c_h .right_c {
+    text-align: center;
+    
+    background: #E51E25;
+    line-height: 36px;
+    border-radius: 100%;
+}
+
+.rc_side_phone {
+      display: inline-block;
+font-size: 34px;
+width: 55px;
+height: 55px;
+background: rgba(94, 178, 2, 0.56);
+color: #fff;
+line-height: 40px;
+border-radius: 30px;
+background: #E41B2E;
+margin-left: 11px;
+margin-top: 8px;
+padding-left: 9px;
+padding-top: 7px;
+margin-bottom: 11px;
+    }
+    
+    .rc_side_phone i {
+      line-height: 45px;
+      margin-left: 4px;
+    }
+    
+    .rc_side_phone:after {
+      position: absolute;
+      content: '';
+      border-right: 2px solid #ffffff;
+      width: 10px;
+      left: 34px;
+      top: 28px;
+      height: 12px;
+      border-radius: 50%;
+      z-index: 9;
+      transform: rotate(-44deg);
+      -webkit-transform: rotate(-44deg);
+      animation: onCall 1s steps(5) infinite;
+      -webkit-animation: onCall 1s steps(5) infinite;
+      animation-delay: 0s;
+    }
+    
+    .rc_side_phone:before {
+      position: absolute;
+      content: '';
+      border-right: 2px solid #ffffff;
+      width: 16px;
+      left: 33px;
+      top: 23px;
+      height: 17px;
+      border-radius: 50%;
+      z-index: 9;
+      transform: rotate(-44deg);
+      -webkit-transform: rotate(-44deg);
+      animation: onCallTwo 1s steps(10) infinite;
+      -webkit-animation: onCallTwo 1s steps(10) infinite;
+      /* animation-delay: 1.5s; */
+    }
+    
+    @keyframes onCall {
+      0% {
+        width: 10px;
+        left: 34px;
+        top: 28px;
+        height: 12px;
+        opacity:0;
+      }
+      100% {
+        width: 18px;
+        left: 31px;
+        top: 24px;
+        height: 19px;
+        opacity:1
+      }
+      /*100%{width: 10px;left: 34px;top: 28px;height: 12px;}*/
+    }
+    
+    @-webkit-keyframes onCall {
+      0% {
+        width: 10px;
+        left: 34px;
+        top: 28px;
+        height: 12px;
+      }
+      100% {
+        width: 18px;
+        left: 31px;
+        top: 24px;
+        height: 19px;
+      }
+    }
+    
+    @keyframes onCallTwo {
+      0% {
+        width: 16px;
+        left: 33px;
+        top: 23px;
+        height: 17px;
+        opacity:1
+      }
+      100% {
+        width: 18px;
+        left: 35px;
+        top: 18px;
+        height: 23px;
+        opacity:0;
+      }
+    }
+    
+    @-webkit-@keyframes onCallTwo {
+      0% {
+        width: 16px;
+        left: 33px;
+        top: 23px;
+        height: 17px;
+      }
+      100% {
+        width: 18px;
+        left: 35px;
+        top: 18px;
+        height: 23px;
+      }
+    }
+
+    </style>
+
+<script>
+    $(function() {
+        $(".c_h").click(function(e) {
+            if ($(".chat_container").is(":visible")) {
+                $(".c_h .right_c .mini").text("+")
+            } else {
+                $(".c_h .right_c .mini").text("-")
+            }
+            $(".chat_container").slideToggle("slow");
+            return false
+        });
+    });
+</script>
+<script type="text/javascript">
+$(function () {
+    $('#datetimepicker1').datetimepicker({
+    icons: {
+        time: "fa fa-clock-o",
+        date: "fa fa-calendar",
+        up: "fa fa-arrow-up",
+        down: "fa fa-arrow-down"
+    },
+    format: 'DD/MM/YYYY HH:mm:a',
+});
+});
+</script>
+<script type="text/javascript">        
+$(document).ready(function(){
+    $("#callback_form").validate({
+        rules: {
+          callback_name: {
+                required: true,               
+            },
+          callback_email: {
+                required: true,       
+                email: true        
+            },
+          callback_phone: {
+                required: true,
+                minlength:8,
+                maxlength:15            
+            },
+        },
+    });
+});
+</script>
+
+
+    <div class="l_c_h">
+    <span class="rc_side_phone hidden-xs hidden-sm">
+    		<i class="fa fa-phone"></i>
+    </span>
+        <!-- disktop -->
+        <div class="c_h hidden-xs hidden-sm">
+            <div class="left_c">
+                <div class="left right_c left_icons">
+                    <a href="#" class="mini" style="font-size:23px;">+</a>
+                </div>
+                <div class="left center_icons">
+                    <!--center_icons-->
+                    Request Callback
+                </div>
+                <!--end center_icons-->
+            </div>
+           
+            <div class="clear"></div>
+        </div>
+        <!-- mobile -->
+        <div class="c_h hidden-lg hidden-md ">
+            <div class="left_c">
+                <!--<div class="left right_c left_icons">
+                    <a href="#"  style="font-size:23px;"><i class="fa fa-phone"></i></a>
+                </div>-->
+                <a href="#"  style="font-size:23px;">
+<span class="rc_side_phone">
+    		<i class="fa fa-phone"></i>
+    </span></a>
+                <!--end center_icons-->
+            </div>
+            <div class="right right_c" style="width:35px;">
+                <a href="#" class="logout" title="End chat" name="" style="display:none;"><img src="chat/logout.png"></a>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="chat_container" style="display: none;">
+            <div class="chat_entry" id="chat_entry">
+                <form name="callback_form" class="chat_form has-validation-callback" id="callback_form" accept="#" method="post">
+                    <p>
+                        <input type="text" name="callback_name" id="callback_name" class="form-control" placeholder="Enter Your Name" maxlength="20" required>
+                    </p>
+                    <p>
+                        <input type="text" name="callback_phone" id="callback_phone" class="form-control" placeholder="Phone ( with country code )" maxlength="15" required>
+                    </p>
+                    <p>
+                        <input type="email"  name="callback_email" id="callback_email" class="form-control" placeholder="Enter Your Email" required>
+                    </p>
+                    <p>
+                        <input type="text" name="callback_course" id="callback_course" class="form-control" placeholder="Intrested Course" maxlength="40">
+                    </p>
+                    <p>
+                      <div class='input-group date' id='datetimepicker1'>
+                          <input type='text' class="user_chat" placeholder="Preferred Date Time" name="callback_datetime" id="callback_datetime" />
+                          <span class="input-group-addon">
+                                  <span class="fa fa-calendar"></span>
+                          </span>
+                      </div>
+                    </p>
+                    <p>
+                      <textarea name="callback_message" placeholder="Message" class="form-control" id="callback_message"></textarea>
+                    </p>
+                    <p><div class="g-recaptcha" data-sitekey="6LcFlqMZAAAAALAVFsSI-iO9yaTtaS_6x-6XdDpB" style="transform:scale(0.75);-webkit-transform:scale(0.75);transform-origin:0 0;-webkit-transform-origin:0 0;"></div>  </p>
+                    <div class="error" id="captcha_error"></div>
+                    <div id="success" style="color: #0bb842;"></div>
+                    <p style="text-align:left;">
+                        <input type="button" name="callback_submit" id="callback_submit" value="Submit">
+                    </p>
+                </form>
+            </div>
+            <div class="icon icon--order-success svg text-center" id="callback_success" style="padding: 150px 0; display: none;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="72px" height="72px">
+                  <g fill="none" stroke="#E31E26" stroke-width="2">
+                    <circle cx="36" cy="36" r="35" style="stroke-dasharray:240px, 240px; stroke-dashoffset: 480px;"></circle>
+                    <path d="M17.417,37.778l9.93,9.909l25.444-25.393" style="stroke-dasharray:50px, 50px; stroke-dashoffset: 0px;"></path>
+                  </g>
+                </svg>
+                <h4 style="color: #159e25;">We will get back to you soon.</h4>
+            </div>
+
+            <p class="footer_c">
+
+            </p>
+        </div>
+    </div> 
+    
+    
+<script src='https://www.google.com/recaptcha/api.js'></script> 
+<script type="text/javascript">
+  $(document).ready(function(){
+    $("#callback_submit").click(function(){
+      
+      $("#callback_form").validate();
+      
+      if ($('#callback_form').valid())
+      {
+        $("#callback_submit").prop('disabled', true);
+        if($('textarea[id="g-recaptcha-response"]').val()=="")
+        {
+            $("#captcha_error").html("Captcha Required");
+        }
+        else
+        {
+            $.ajax({
+                type:"POST",
+                url: 'callback_request.php',
+                dataType: 'json',
+                data: {
+                       "g-recaptcha-response":$('textarea[id="g-recaptcha-response"]').val(),
+                       "name":$("#callback_name").val(),
+                       "phone":$("#callback_phone").val(),
+                       "email":$("#callback_email").val(),
+                       "course":$("#callback_course").val(),
+                       "datetime":$("#callback_datetime").val(),
+                       "message":$("#callback_message").val(),
+                       },
+
+                success: function( response ){
+                    $("#callback_submit").prop('disabled', false);
+                    $("#chat_entry").hide();
+                    $("#callback_success").fadeIn();                    
+                    $(".chat_container").delay(2000).slideToggle("hide");
+
+                },
+                error: function( error ){
+                    $("#callback_submit").prop('disabled', false);
+                    $("#chat_entry").hide();
+                    $("#callback_success").fadeIn();                    
+                    $(".chat_container").delay(4000).slideToggle("hide");
+                }
+            });
+        }
+      }
+    });
+  });
+</script>
+
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+        $(".course_subscribe").removeClass("sidebar"); 
+
+});
+
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.switch-label').click(function(){
+    $('.switch-label').removeClass("active");
+    $(this).addClass("active");
+});
+
+});
+</script>
+<script type='application/ld+json'> 
+{
+"@context": "http://www.schema.org",
+"@type": "LocalBusiness",
+"name": "School of Business London",
+"telephone": "+44 20 3637 8765",
+"url": "https://www.sbusinesslondon.ac.uk",
+"image": "https://www.sbusinesslondon.ac.uk/img/SBL20Slider-2.jpg",
+"description": "School of Business London offers a CMI Level 6 Diploma in Management and Leadership as well as a myriad of other courses including a Diploma in Accounting , Cyber Security Courses, Marketing Courses and Level 4 Health and Social Care.",
+"priceRange": "Competitive",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "44 Broadway",
+"addressLocality": "Stratford",
+"addressRegion": "London",
+"postalCode": "E15 1XH",
+"addressCountry": "United Kingdom"
+},
+"openingHours": "Mo, Tu, We, Th, Fr, Sa, Su -",
+"contactPoint": {
+"@type": "ContactPoint",
+"contactType": "Customer Service",
+"telephone": "+44 20 3637 8765"
+}
+}
+ </script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '324648871641865'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=324648871641865&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--Start of Tawk.to Script--> 
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a63aef2d7591465c706f088/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script> 
+
+</body>
+</html>

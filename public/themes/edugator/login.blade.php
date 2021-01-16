@@ -45,7 +45,7 @@
                     <div class="col-sm-12 col-lg-6 offset-lg-3">
                         <div class="login_form inner_page">
                         @include('inc.flash_msg')
-                        <?php echo csrf_field();die; ?>
+                        
 <form method="POST" action="{{ route('login') }}">
     @csrf
                                 <div class="heading">
